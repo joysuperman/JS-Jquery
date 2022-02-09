@@ -1,14 +1,3 @@
-/* 
-	======================== ***** ============================= 
-	Template Name: globezen
-	Template URI: #
-	Description: This is the travel agency website.
-	Version: 1.1.0
-	Author: thedevgarden
-	Author URI: https://thedevgarden.com
-	Text Domain: globezen
-*/
-
 $(document).ready(function(){
 
     $(window).on('scroll', function () {
